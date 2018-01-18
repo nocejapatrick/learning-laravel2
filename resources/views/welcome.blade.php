@@ -22,6 +22,7 @@
             }
             .binago_ko{
                 asdasdlkadklasjaslkdaskldashd
+                asdassdasdsa
             }
             .position-ref {
                 position: relative;
